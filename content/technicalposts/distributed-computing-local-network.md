@@ -1,7 +1,7 @@
 ---
 title: "Distributed computing in a local network"
 summary: Brainstroming ideas to run distributed tasks locally
-date: 2020-01-01
+date: 2021-01-01
 aliases: ["/distributed-local-network"]
 tags: ["Distributed","Brainstorming"]
 author: "Akilan Selvacoumar"

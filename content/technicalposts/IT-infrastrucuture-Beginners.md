@@ -7,7 +7,7 @@ tags: ["IT","Beginners"]
 author: "Akilan Selvacoumar"
 draft: false
 aliases: [/technicalposts/beginners]
-weight: 3
+weight: 2
 ---
 
 
