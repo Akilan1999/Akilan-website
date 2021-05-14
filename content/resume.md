@@ -65,5 +65,5 @@ My role as an assistant teacher was to just make sure that kids have as much fun
 
 ## Education
 
-### Heriot Watt / Bsc (Hons) Computer Science(Year 3)
+### Heriot Watt / Bsc (Hons) Computer Science
 September 2017 - July 2021
