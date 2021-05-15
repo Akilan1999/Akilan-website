@@ -1,12 +1,11 @@
 ---
 title: "P2P Rendering/Computation"
 summary: p2p network that creates containers and eventually helps in harnessing the computation power.
-date: 2021-05-14
 tags: ["p2p","rendering","computation"]
 author: "Akilan Selvacoumar"
 draft: false
 aliases: [/p2prc]
-weight: 2
+weight: 1
 ---
 ## About
 The main aim of this project was to create a custom peer to peer network. The user acting as the client has total flexibility on how to batch the tasks and the user acting as the server has complete flexibility on tracking the container's usages and killing the containers at any point of time.
