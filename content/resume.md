@@ -11,8 +11,8 @@ My vision is to contribute as much as I can to the scientific and future entrepr
 ### Fields:
 - Web Development 
 - IOT Development
-- Decentralizing data (i.e ipfs cluster)
-- p2p networks
+- Distribued Databases
+- P2P networks
 
 ### Programming Languages:
 - Go
@@ -24,46 +24,47 @@ My vision is to contribute as much as I can to the scientific and future entrepr
 - MySQL
 - Mongodb
 
-### Frameworks:
-- Bootstrap 
-- Django 
-- Express 
-- Flask
-- Hugo
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Experience
 
-### PlanetScale / Intern 
+### PlanetScale / Software Engineer Intern 
 August 2020 - March 2021, Remote
+
 Working on an open source project to benchmark the project Vitess (A database clustering system for horizontal scaling of MySQL).
-Links : 
-https://github.com/vitessio/arewefastyet
 
-### Heriot Watt / Tech Club President 
-November 2018 - PRESENT,  Academic City , Dubai , UAE
-My role as tech club president is to work on projects that seem to help towards building a strong community.
-Links : 
-https://github.com/Tech-club
-https://hwtech.club
+Project: [Vitess Arewefastyet](/projects/arewefastyet/)
 
-#### Our current projects:
-##### IOT : We use IOT for various projects anywhere from helping the rocket team integrate sensors with helping pull live data or work our own mini micro grids. 
-https://github.com/internet-of-energy
-https://ioe.hwtech.club/
+### Heriot Watt / HW Tech Club President 
+November 2018 - May 2021,  Academic City , Dubai , UAE
 
-##### Back-end server : We work on ideas such as setting up our own servers  or even raspberry pi clusters for fun.   
+My role as tech club president is to work on projects that seem to help towards building a strong community. 
 
-##### Drones : Writing python scripts for creating sequences of actions for drones to follow , Pose recognition and photogrammetry.
+#### Milestones acheived:
+1. Grew the club from 8 to 160 members 
+2. Setup the leadership team 
+3. Lead the leadership to setup intial infrastructure 
+4. Setup tech club to run using an open source model
+5. Intial contributor to boost projects within the club  
 
 ### Dubai Holiday Camps / Assistant Teacher 
 July  2017 - July  2019,  DIA, Dubai
+
 My role as an assistant teacher was to just make sure that kids have as much fun as possible by getting involved in various sports such as Football, Baseketball , Tennis , Dodgeball etc...
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Education
 
-### Heriot Watt / Bsc (Hons) Computer Science
+### Heriot-Watt University / BSc (Hons) Computer Science
 September 2017 - July 2021
+
+On the phase of completing my 4th year degree. Major courses completed:
+- Databases and management systems 
+- Hardware and Software Interfaces 
+- Bio Inspired Computing 
+- Data mining and machine learning 
+- Advanced network security 
+- Digital forensics  
+
+#### Final Dissertation: [p2p network rendering/computation](/projects/p2prc/) 
