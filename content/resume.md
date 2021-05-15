@@ -1,7 +1,7 @@
 ---
 title: Resumé
-summary: My voluntary and work experience 
-description: My voluntary and work experience 
+summary: My voluntary and work experience.
+description: My voluntary and work experience.
 ---
 
 ## Skills

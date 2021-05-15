@@ -5,8 +5,7 @@ description: I am a Homosapien
 ---
 ## Hi there,
 I am just a normal person.
-I love to build stuff and love to run away from fancy documentation.
-
+I love to build stuff and a huge beleiver in randomization.
 ### Areas I focus on:
 1. Distributed computation 
 2. p2p networks 
