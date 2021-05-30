@@ -12,9 +12,9 @@ weight: 2
 
 ## Why do we need open standards for CPU Architecture ? 
 
-- We want to allow users to see all the parts of the architecure 
-without any propritary constraints. 
-- We want to have the rights to modify and distribute without paying any licensing fees and contriants in sharing. 
+- We want to allow users to see all the parts of the architecture 
+without any proprietary constraints. 
+- We want to have the rights to modify and distribute without paying any licensing fees and constraints in sharing. 
 - With open standards it's easier to build on top of others work and possibly build CPU designs custom made for certain tasks. 
 
 ## What is RISC-V ? 
@@ -29,12 +29,12 @@ have many hardware implementations. In technical terms as ISA defines set of Ins
 - Virtual memory 
 - Exceptions 
 
-Another important factor to understand is that RISCV is a standard
-and not an implemntation. This means that the entire ISA is defined in a huge latex file which can be found on github. 
+Another important factor to understand is that RISC-V is a standard
+and not an implementation. This means that the entire ISA is defined in a huge latex file which can be found on Github. 
 
 Repo link: https://github.com/riscv/riscv-isa-manual
 
-The RISC-V is a well organized ISA and is divided into various catergories and extensions in order to keep it as a modular design.
+The RISC-V is a well organized ISA and is divided into various categories and extensions in order to keep it as a modular design.
 The RISC-V is maintained the non profit organization called [RISC-V foundation](https://riscv.org/).
 
 ### ["RISC-V in contrast was made specifically to be easy to teach while pragmatic enough to actually allow the implementation of high performance microprocessors."](https://medium.com/swlh/risc-v-assembly-for-beginners-387c6cd02c49)
@@ -89,7 +89,7 @@ Each register is 32 bits which can be called as 1 word.
 ![](https://raw.githubusercontent.com/Artoriuz/RV32I-SC/master/images/schematic.png)
 Fig 1.0 [Simplified schematics of RV32I](https://github.com/Artoriuz/RV32I-SC)
 
-Now is we will recall the basics and try to understand
+Now we will recall the basics and try to understand
 how to read an instruction. 
 ```
 add rd,rs1,rs2
@@ -106,18 +106,19 @@ Fig 1.1 [Assembly instructions for RV32I](https://github.com/jameslzhu/riscv-car
 Fig 1.2 [Registers for RV32I](https://github.com/jameslzhu/riscv-card/blob/master/riscv-card.pdf)
 
 ## Interesting research papers 
-- [Implementing RISC-V System-on-Chip for Acceleration of Convolution Operation and Activation Function Based on FPGA (Field programmable gate arrays)](https://ieeexplore.ieee.org/document/8564810): FGPA are mostly for application specific intergrated circuits. An example would be intel using FGPA to 
+- [Implementing RISC-V System-on-Chip for Acceleration of Convolution Operation and Activation Function Based on FPGA (Field programmable gate arrays)](https://ieeexplore.ieee.org/document/8564810): FGPA are mostly for application specific integrated circuits. An example would be Intel using FGPA to 
 prototype new chips. The objective of the paper was to design 
-a RISC-V processor for specific tasks such as Convouluition functions and activation functions. The result was that the 
-RISC-V processor was faster than CPU + coprocessor mode and 
+a RISC-V processor for specific tasks such as Convolution functions and activation functions. The result was that the 
+RISC-V processor was faster than CPU + co-processor mode and 
 used lesser than the CPU + GPU mode. 
 
 - [Towards deep learning using Tensorflow lite on RISC-V](
   https://edge.seas.harvard.edu/files/edge/files/carrv_workshop_submission_2019_camera_ready.pdf  
 ): This paper focuses on ISA extensions customized for 
-machine learning kernels. The software infrastrucutre implemented was optimized for neural network execution. 
-The following was intergrated into tensorflow lite. The 
+machine learning kernels. The software infrastructure implemented was optimized for neural network execution. 
+The following was integrated into Tensorflow lite. The 
 result was that instructions was reduced by 8X. 
+
 
 - [A compiler comparison in the RISC-V ecosystem](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9191411): Comparing LLVM and GCC performance on RISC-V. LLVM and GCC 
 produce same binary size but both have different execution
@@ -125,7 +126,7 @@ produce same binary size but both have different execution
 
 ## Interesting Open Source projects 
 - [RISCBoy](https://github.com/Wren6991/RISCBoy): It is an open-source portable games console, designed from scratch.
-RISC-V compatable CPU. Has raster graphics pipelines and display controllers. It consists of other infrastuture such as memory 
+RISC-V compatible CPU. Has raster graphics pipelines and display controllers. It consists of other infrastructure such as memory 
 controllers and GPIO ports. It also consists of a CAD design of 
 the PCB layout. 
 - [Potato](https://github.com/skordal/potato): The Potato Processor is a simple RISC-V processor written in VHDL for use in FPGAs. It implements the 32-bit integer subset of the RISC-V Specification version 2.0.
