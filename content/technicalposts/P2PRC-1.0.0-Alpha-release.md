@@ -20,7 +20,7 @@ not support the docker daemon. We will try to provide backwards compatability
 as much as we can but I have decided to ditch the docker daemon and write 
 compatable code from containerd. 
 
-## Major featueres 
+## Major features 
 - IPV4 and IPV6 support: All the nodes can listen to both IPV4 and 
 IPV6 addresses. It can be noted that with IPV6 there are minor issues 
 detected in certain PC in terms of SSH into a docker container which is 
