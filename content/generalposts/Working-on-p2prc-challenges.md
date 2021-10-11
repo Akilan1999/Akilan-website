@@ -28,5 +28,5 @@ Open Source developer (i.e call it whatever you like). The important thing would
 happy on what you built.
 
 I promoised that I would continue this project for 3 more years and
-see how it continues from there. The project is at the very initial stages and very tough to say what would be it's fate. The aim of this was to be halping hand towards the main aim of creating a distributed game engine. But at the moment have no clue on how a 
+see how it continues from there. The project is at the very initial stages and very tough to say what would be it's fate. The aim of this was to be helping hand towards the main aim of creating a distributed game engine. But at the moment have no clue on how a 
 game engine works. 
