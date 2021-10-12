@@ -104,8 +104,37 @@ If the server is using a reverse proxy then the server
 port no should be decided by P2PRC to ensure that there 
 is no scenario where the port is already taken. 
 
-More to be written :)
+## New Cli Commands
+We will be introducing a new set of Cli commands. 
+These cli commands would be incharge to starting 
+the reverse proxy or connecting to the reverse proxy 
+and various other function. 
 
-More information email me: me AT akilan.io
+1. start reverse proxy (need public IPV4)
+```
+p2prc -s --reverse-proxy
+```
+This will start the reverse 
+and autoamtically broadcast 
+as a reverse proxy as well. 
 
+2. connecting to a reverse proxy 
+```
+p2prc -s --connect-reverse-proxy <proxy ip address>
+```
+This will start p2prc as server 
+and automatically set the server port 
+and link it to the reverse proxy and 
+any connections would go through the 
+reverse proxy. 
+
+3. Listing all proxy servers avaliable 
+```
+p2prc --view-rps or p2prc --view-reverse-proxy-servers
+```
+
+4. Listing all reverse proxy connection mapping 
+```
+p2prc --view-rpm or p2prc --view-reverse-proxy-mapping 
+```
 
