@@ -28,6 +28,14 @@ My vision is to contribute as much as I can to the scientific and future entrepr
 
 ## Experience
 
+### Maman LLC / Software Engineer 
+September 2021 - Present, Dubai, UAE
+
+Part time Go developer at Maman LLC. Working on developing an e-commerce platform to create 
+and maintain generated e-commerce  websites from a single click. Also working with 
+Reed-solomon error corrections as a part of research and development. 
+
+
 ### PlanetScale / Software Engineer Intern 
 August 2020 - March 2021, Remote
 
