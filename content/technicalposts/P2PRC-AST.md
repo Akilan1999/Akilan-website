@@ -6,7 +6,7 @@ aliases: ["/P2PRC-Extending"]
 tags: ["P2PRC","AST","Extend"]
 author: "Akilan Selvacoumar"
 draft: false
-aliases: [/P2PRC-ExtendingT]
+aliases: [/P2PRC-Extending]
 weight: 2
 ---
 
@@ -132,4 +132,4 @@ Higher order of execution of ```Generate.go```:
 p2prc --gen <project name> --mod <go module name>
 ```
 
-## based on PR: https://github.com/Akilan1999/p2p-rendering-computation/pull/69
+#### based on PR: https://github.com/Akilan1999/p2p-rendering-computation/pull/69
