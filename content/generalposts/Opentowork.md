@@ -4,7 +4,7 @@ summary: Just graduated looking for remote or work based in the UAE.
 date: 2021-30-06
 tags: ["Work","Open"]
 author: "Akilan Selvacoumar"
-draft: false
+draft: true 
 aliases: [/opentowork]
 weight: 1
 ---

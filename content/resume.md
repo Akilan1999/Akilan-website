@@ -67,7 +67,7 @@ My role as an assistant teacher was to just make sure that kids have as much fun
 ### Heriot-Watt University / BSc (Hons) Computer Science
 September 2017 - July 2021
 
-On the phase of completing my 4th year degree. Major courses completed:
+Major courses completed:
 - Databases and management systems 
 - Hardware and Software Interfaces 
 - Bio Inspired Computing 
