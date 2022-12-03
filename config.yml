@@ -116,6 +116,14 @@ menu:
           name: General Posts
           url: /Generalposts/
           weight: 50
+        - identifier: Papers
+          name: Papers
+          url: /Papers/
+          weight: 50
+        - identifier: Chat
+          name: Chat
+          url: /Chat/
+          weight: 60
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:

@@ -11,8 +11,9 @@ My vision is to contribute as much as I can to the scientific and future entrepr
 ### Fields:
 - Web Development 
 - IOT Development
-- Distribued Databases
+- Distributed Databases
 - P2P networks
+- Operating systems (i.e Uni-kernels and Multi-kernels)
 
 ### Programming Languages:
 - Go
@@ -28,13 +29,13 @@ My vision is to contribute as much as I can to the scientific and future entrepr
 
 ## Experience
 
-### Maman LLC / Software Engineer 
-September 2021 - Present, Dubai, UAE
+### Peernet Core Developer 
+October 2021 - Present, Remote
+Working on the Open source project (https://github.com/PeernetOfficial/core).
 
-Part time Go developer at Maman LLC. Working on developing an e-commerce platform to create 
-and maintain generated e-commerce  websites from a single click. Also working with 
-Reed-solomon error corrections as a part of research and development. 
-
+### Maman LLC | Karaz / Senior Software Engineer 
+September 2021 - Present, Remote
+Part time Go developer at Maman LLC and Karaz.
 
 ### PlanetScale / Software Engineer Intern 
 August 2020 - March 2021, Remote
@@ -76,3 +77,7 @@ Major courses completed:
 - Digital forensics  
 
 #### Final Dissertation: [p2p network rendering/computation](/projects/p2prc/) 
+
+### Heriot-Watt University / PhD Computer Science
+January 2022 - Present
+(More information to be updated after January 15th 2023)
