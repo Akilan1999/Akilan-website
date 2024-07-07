@@ -4,9 +4,7 @@ summary: One to one conversation
 description: One to one conversation
 ---
 
-I like to speak to people during my lunch break. 
-If you want to discuss regarding P2PRC, brain 
-storm ideas you have or want to have 
-a casual conversation. My ears are open. 
-
-Link: https://calendly.com/akilan1999
+If you would like to have a one of one chat you can initially email me with 
+the email me@akilan.io. I will normally respond within 24 hours and at the worst 
+case 48 hours.
+<!-- Link: https://calendly.com/akilan1999 -->
