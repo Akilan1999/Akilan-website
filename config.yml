@@ -25,7 +25,7 @@ params:
     disableThemeToggle: false
 
     ShowReadingTime: true
-    ShowShareButtons: true
+    ShowShareButtons: false
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: false
@@ -57,6 +57,8 @@ params:
               url: technicalposts
             - name: General Posts
               url: generalposts
+            - name: Hiking
+              url: hiking
 
     # home-info mode
     homeInfoParams:
@@ -123,6 +125,10 @@ menu:
         - identifier: Chat
           name: Chat
           url: /Chat/
+          weight: 60
+        - identifier: Hiking
+          name: Hiking
+          url: /hiking/
           weight: 60
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true

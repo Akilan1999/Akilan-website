@@ -124,7 +124,7 @@ January 2022 - Present
 - FreeBSD kernel development
 
 #### Languages used:
-- C 
+- C  
 - ARM Assembly 
 
 #### Ongoing research:
