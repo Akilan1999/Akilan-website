@@ -20,11 +20,11 @@ Path information: https://www.walkhighlands.co.uk/fife-stirling/the-binn-burntis
 
 ## Walk description
 A really easy and relaxed walk. Can be easily done no matter the weather condition.
-From the previous hikes done so far one of the most well connected hikes especially from the Edinburgh side.
+From the previous hikes done so far one of the most well connected hikes (In terms of public transport) especially from the Edinburgh side.
 
 ### Key highlights 
 - Really cute train station.
-- You can easily unleash the kid in yourself by adoring the cute trains and [4 legged wingman](https://hips.hearstapps.com/hmg-prod/images/cutest-dog-breed-german-shephard-6435743c5766b.jpg?crop=1.00xw:0.836xh;0,0.141xh&resize=980:*) along the walkway.
+- You can easily unleash the kid in yourself by adoring the cute trains and the [4 legged wingman](https://hips.hearstapps.com/hmg-prod/images/cutest-dog-breed-german-shephard-6435743c5766b.jpg?crop=1.00xw:0.836xh;0,0.141xh&resize=980:*) along the walkway.
 - Fancy houses blocking pathways which should be public.
 
 ## Path we walked
@@ -34,15 +34,13 @@ From the previous hikes done so far one of the most well connected hikes especia
 ![](/img/hike/burntisland/burntisland.jpg) 
 
 This was taken from the highest peak and shows
-a impressive view of the small town with Edinburgh across the sea. North bridge is barely visible due 
-to the clouds.
+an impressive view of the small town with Edinburgh across the sea. North bridge is barely visible due to the clouds.
 
 ![](/img/hike/burntisland/PathBlocked.jpeg) 
 
 While walking through the trail we intended to take 
 a deviation to walk through the Fife costal walkway 
-to walk closer to the sea. There is a small caveat 
-that the segment of costal walkway can only be traversed 
+to walk closer to the sea. There is a small caveat, the segment of costal walkway can only be traversed 
 on a low tide (Unless you are [Moses](https://i.pinimg.com/474x/e5/fb/3e/e5fb3eb00e8a5c2566f571fdde2e0385.jpg)).
 The annoying part was that there was a relatively high tide which we didn't notice blocking parts of the path. The worst case scenario would be to walk back to the start of the costal path and walk along side the road to city centre. The picture above reflects one of the deviated paths we could have taken but unfortunately private property had fenced out path way from the public from using it (This was a bit frustrating). When walking through the partially blocked pathway a nice view of the sea could be captured. 
 
