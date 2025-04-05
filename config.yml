@@ -45,20 +45,6 @@ params:
         imageWidth: 160
         imageHeight: 160
         imageTitle: my image
-        buttons:
-            - name: About
-              url: about
-            - name: Resumé
-              url: resume
-            - name: Projects
-              url: projects
-            - name: Technical Posts
-              url: technicalposts
-            - name: General Posts
-              url: generalposts
-            - name: Hiking
-              url: hiking
-
     # home-info mode
     homeInfoParams:
         Title: "Hi there \U0001F44B"
