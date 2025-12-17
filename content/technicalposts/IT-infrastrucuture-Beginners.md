@@ -2,7 +2,6 @@
 title: "IT infrastructure (Beginners guide)"
 summary: Basics of running power and cheap IT infrastructure
 date: 2020-05-25
-aliases: ["/papermod-how-to-guide"]
 tags: ["IT","Beginners"]
 author: "Akilan Selvacoumar"
 draft: false
