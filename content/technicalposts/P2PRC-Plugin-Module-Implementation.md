@@ -6,7 +6,6 @@ aliases: ["/P2PRC-Plugin"]
 tags: ["P2PRC","Plugin"]
 author: "Akilan Selvacoumar"
 draft: false
-aliases: [/P2PRC-Plugin]
 weight: 2
 ---
 

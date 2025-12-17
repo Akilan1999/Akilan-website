@@ -2,7 +2,6 @@
 title: "Extension of P2PRC to create your own modification"
 summary: P2PRC as a abstraction 
 date: 2021-08-31
-aliases: ["/P2PRC-Extending"]
 tags: ["P2PRC","AST","Extend"]
 author: "Akilan Selvacoumar"
 draft: false

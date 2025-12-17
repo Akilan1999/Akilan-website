@@ -6,7 +6,6 @@ aliases: ["/laplace-keyboard-mouse"]
 tags: ["WebRTC","laplace"]
 author: "Akilan Selvacoumar"
 draft: false 
-aliases: [/laplace-keyboard-mouse]
 weight: 2
 ---
 

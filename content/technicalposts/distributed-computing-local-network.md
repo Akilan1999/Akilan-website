@@ -6,7 +6,6 @@ aliases: ["/distributed-local-network"]
 tags: ["Distributed","Brainstorming"]
 author: "Akilan Selvacoumar"
 draft: false
-aliases: [/technicalposts/distributed-local-network]
 weight: 2
 ---
 

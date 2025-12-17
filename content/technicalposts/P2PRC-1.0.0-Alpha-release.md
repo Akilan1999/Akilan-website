@@ -2,7 +2,6 @@
 title: "Alpha Release P2PRC v1.0.0"
 summary: Alpha release for P2PRC
 date: 2021-06-27
-aliases: ["/papermod-how-to-guide"]
 tags: ["P2PRC","v1.0.0-alpha"]
 author: "Akilan Selvacoumar"
 draft: false

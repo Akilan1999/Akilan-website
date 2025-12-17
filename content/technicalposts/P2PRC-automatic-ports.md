@@ -6,7 +6,6 @@ aliases: ["/P2PRC-Automatic-ports"]
 tags: ["P2PRC","Ports","TCP","Automatic"]
 author: "Akilan Selvacoumar"
 draft: false
-aliases: [//P2PRC-Automatic-ports]
 weight: 2
 ---
 

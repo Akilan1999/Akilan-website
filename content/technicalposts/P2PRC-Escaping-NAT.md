@@ -6,7 +6,6 @@ aliases: ["/P2PRC-escaping-NAT"]
 tags: ["P2PRC","NAT"]
 author: "Akilan Selvacoumar"
 draft: false
-aliases: [/P2PRC-escaping-NAT]
 weight: 2
 ---
 

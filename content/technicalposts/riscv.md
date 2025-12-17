@@ -6,7 +6,6 @@ aliases: ["/riscv"]
 tags: ["RISCV","Open Source"]
 author: "Akilan Selvacoumar"
 draft: false
-aliases: [/technicalposts/riscv"]
 weight: 2
 ---
 
