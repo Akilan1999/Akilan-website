@@ -37,9 +37,21 @@ description: My voluntary and work experience.
 #### [P2PRC](http://github.com/Akilan1999/p2p-rendering-computation)
 Maintainer of a project I created and currently developing. P2PRC is a p2p network designed to orchestrate custom tasks on a P2P network. The project is built entirely using Go Lang. 
 ##### Languages used:
-Go, Haskell, Python
+Go, Rust, Haskell, Python
 #### Derived from P2PRC:
 - Open source self hosted version for remote gaming using WebRTC: https://github.com/Akilan1999/remotegameplay
+
+### 2. (Part-time) Software Architect/Engineer
+#### [Konpanion](https://www.esg360.io/)
+October 2025 - Present, Remote (Edinburgh, Scotland)
+During PhD research time, Working on designing and maintaining
+the Konpanion back-end infrastructure. 
+
+### 3. (Part-time) DevOps 
+#### [ESG360](https://www.esg360.io/)
+March 2025 - Present, Remote (Glasgow, Scotland)
+During PhD research time, Working on maintaining the
+AWS infrastructure for ESG360 3 days a month. 
 
 
 ### 2. Core Developer 

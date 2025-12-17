@@ -55,8 +55,6 @@ params:
           url: "https://www.youtube.com/channel/UChy18QB1hBzZ7MniIW_FJvQ"
         - name: github
           url: "https://github.com/Akilan1999"
-        - name: linkedin
-          url: "https://www.linkedin.com/in/akilan-selvacoumar/"
         - name: email
           url: "mailto:me@akilan.io"
 
