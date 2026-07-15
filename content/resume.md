@@ -44,7 +44,7 @@ Go, Rust, Haskell, Python
 - Open source self hosted version for remote gaming using WebRTC: https://github.com/Akilan1999/remotegameplay
 
 ### 2. (Part-time) Software Architect/Engineer
-#### [Konpanion](https://www.esg360.io/)
+#### [Konpanion](https://www.konpanion.com/)
 October 2025 - Present, Remote (Edinburgh, Scotland)
 During PhD research time, Working on designing and maintaining
 the Konpanion back-end infrastructure. 
