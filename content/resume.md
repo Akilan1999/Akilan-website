@@ -4,6 +4,8 @@ summary: My voluntary and work experience.
 description: My voluntary and work experience.
 ---
 
+### PDF version [here](/pdf/CV.pdf)
+
 <!-- Todo:
   - More descriptive descriptions of work done on the job --> 
 

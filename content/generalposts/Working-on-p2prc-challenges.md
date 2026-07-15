@@ -22,7 +22,7 @@ but it's a true fact in my case simple as that.
 
 I have no idea on why I keep working on this project. I guess 
 maybe it's just that I have fun doing it. The true fact is that it 
-is fun at times and really lonley at many times. As a hacker or
+is fun at times and really lonely at many times. As a hacker or
 Open Source developer (i.e call it whatever you like). The important thing would just be feedback and hopefully feeling 
 happy on what you built.
 
