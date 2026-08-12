@@ -19,5 +19,5 @@ The main aim of this project was to create a custom peer to peer network. The us
 1. Main programming langauge: Go 
 2. License: GPLv2
 3. [Source code](https://github.com/Akilan1999/p2p-rendering-computation)
-4. [Documentation](https://https://p2prc.akilan.io/)
+4. [Documentation](https://p2prc.akilan.io/)
 

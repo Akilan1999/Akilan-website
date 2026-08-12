@@ -115,6 +115,10 @@ menu:
           name: Hiking
           url: /hiking/
           weight: 60
+        - identifier: Now
+          name: Now
+          url: /Now/
+          weight: 60
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:

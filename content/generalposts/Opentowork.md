@@ -9,9 +9,6 @@ aliases: [/opentowork]
 weight: 1
 ---
 
-I am currently working on my PhD experiments on CHERI based capability systems.
-[Read more](https://github.com/Akilan1999/phd-thesis/releases/download/Year2/thesis.pdf)
-
 I am currently looking for work as a software engineer.
 What I am capable of building is what you see in my website.
 
